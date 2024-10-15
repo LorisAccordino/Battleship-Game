@@ -42,6 +42,22 @@
 *.idb
 *.pdb
 
+# CodeBlocks specific files
+*.depend
+*.cbp
+*.layout
+*.workspace
+*.cbw
+*.cbproj
+
+# Debug and release folders
+*/Debug/*
+*/Release/*
+
+# Codeblocks auto-generated files
+*.user
+*.un~ 
+
 # Kernel Module Compile Results
 *.mod*
 *.cmd
@@ -50,3 +66,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.bak
+*.swp
+*.swo
+*.tmp
