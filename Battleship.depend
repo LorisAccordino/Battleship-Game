@@ -1,0 +1,146 @@
+# depslib dependency file v1.0
+1716587343 source:c:\users\loris\documents\scuola\superiori\sistemi e reti\c\battleship\main.c
+	"battleship.h"
+
+1714082647 source:c:\users\loris\documents\scuola\superiori\sistemi e reti\c\battleship\server.c
+	<stdio.h>
+	<winsock2.h>
+
+1707340807 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\battleship\libuv-v1.48.0\include\uv.h
+	"uv/errno.h"
+	"uv/version.h"
+	<stddef.h>
+	<stdio.h>
+	<stdint.h>
+	"uv/win.h"
+	"uv/unix.h"
+
+1707340807 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\battleship\libuv-v1.48.0\include\uv\errno.h
+	<errno.h>
+
+1707340807 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\battleship\libuv-v1.48.0\include\uv\version.h
+
+1707340807 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\battleship\libuv-v1.48.0\include\uv\win.h
+	<winsock2.h>
+	<mswsock.h>
+	<ws2tcpip.h>
+	<windows.h>
+	<process.h>
+	<signal.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<stdint.h>
+	"uv/tree.h"
+	"uv/threadpool.h"
+
+1707340807 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\battleship\libuv-v1.48.0\include\uv\tree.h
+
+1707340807 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\battleship\libuv-v1.48.0\include\uv\threadpool.h
+
+1707340807 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\battleship\libuv-v1.48.0\include\uv\unix.h
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<dirent.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netinet/tcp.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<termios.h>
+	<pwd.h>
+	<semaphore.h>
+	<sys/param.h>
+	<pthread.h>
+	<signal.h>
+	"uv/threadpool.h"
+	"uv/linux.h"
+	"uv/os390.h"
+	"uv/posix.h"
+	"uv/aix.h"
+	"uv/sunos.h"
+	"uv/darwin.h"
+	"uv/bsd.h"
+	"uv/posix.h"
+
+1707340807 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\battleship\libuv-v1.48.0\include\uv\linux.h
+
+1707340807 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\battleship\libuv-v1.48.0\include\uv\os390.h
+
+1707340807 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\battleship\libuv-v1.48.0\include\uv\posix.h
+
+1707340807 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\battleship\libuv-v1.48.0\include\uv\aix.h
+
+1707340807 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\battleship\libuv-v1.48.0\include\uv\sunos.h
+	<sys/port.h>
+	<port.h>
+
+1707340807 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\battleship\libuv-v1.48.0\include\uv\darwin.h
+	<mach/mach.h>
+	<mach/task.h>
+	<mach/semaphore.h>
+	<TargetConditionals.h>
+
+1707340807 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\battleship\libuv-v1.48.0\include\uv\bsd.h
+
+1715113210 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\textgamekit\menu.h
+
+1716586941 source:c:\users\loris\documents\scuola\superiori\sistemi e reti\c\battleship\battleship.c
+	"battleship.h"
+
+1716574246 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\battleship\battleship.h
+	"common.h"
+	"ui.h"
+	"math2D.h"
+	"networking.h"
+
+1716563685 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\textgamekit\common.h
+	<ncurses.h>
+	"windows.h"
+
+1703246429 c:\msys64\mingw64\include\ncurses\ncurses.h
+	<ncursesw/ncurses_dll.h>
+	<stdint.h>
+	<stdnoreturn.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<ncursesw/unctrl.h>
+
+1703246429 c:\msys64\mingw64\include\ncursesw\ncurses_dll.h
+
+1703246429 c:\msys64\mingw64\include\ncursesw\unctrl.h
+	<ncursesw/curses.h>
+
+1703246429 c:\msys64\mingw64\include\ncursesw\curses.h
+	<ncursesw/ncurses_dll.h>
+	<stdint.h>
+	<stdnoreturn.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<ncursesw/unctrl.h>
+
+1716565643 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\textgamekit\ui.h
+	<stdarg.h>
+	"common.h"
+
+1716413094 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\textgamekit\networking.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<iphlpapi.h>
+	<stdio.h>
+	<process.h>
+	<stdatomic.h>
+
+1715883267 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\textgamekit\math2d.h
+	<math.h>
+	"common.h"
+
